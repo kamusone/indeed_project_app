@@ -1,0 +1,6 @@
+,f1-score,precision,recall,support
+ class 0,0.64,0.61,0.67,213.0
+ class 1,0.61,0.65,0.58,221.0
+ micro avg,0.62,0.62,0.62,434.0
+ macro avg,0.62,0.63,0.63,434.0
+weighted avg,0.62,0.63,0.62,434.0
